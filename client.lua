@@ -10,7 +10,7 @@ local actualDistrict = 0
 -- Add your own location(s) to view telegrams here.
 
 local locations = {
-    { x=-269.69, y=807.36, z=119.33, district = 1 }, --Valentine Sheriff Office
+    	{ x=-269.69, y=807.36, z=119.33, district = 1 }, --Valentine Sheriff Office
 	{ x=-184.02, y=629.98, z=114.02, district = 1 }, --Valentine Train Station pinboard
 	{ x=2983.38, y=572.70, z=44.60, district = 1 }, --Van Horn Pinboard
 	{ x=2933.07, y=1286.45, z=44.65, district = 1 }, --Annesburg Train Station Pinboard
@@ -18,9 +18,9 @@ local locations = {
 	{ x=1233.90, y=-1293.62, z=76.90, district = 2 }, --Rhodes Train Station Pinboard
 	{ x=-1773.03, y=-393.05, z=156.54, district = 3 }, --Strawberry Telgram office
 	{ x=-872.54, y=-1324.85, z=43.71, district = 3 }, --Blackwater Depot
-    { x=-3623.53, y=-2598.65, z=-13.83, district = 4 }, --Armadillo Sheriff Office
+    	{ x=-3623.53, y=-2598.65, z=-13.83, district = 4 }, --Armadillo Sheriff Office
 	{ x=-5525.10, y=-2927.82, z=-1.99, district = 4 }, --Tumbleweed Sheriff Office
-    { x=-1959.44, y=-3262.62, z=-7.32, district = 5 }, --Mexico Wedding Venue
+    	{ x=-1959.44, y=-3262.62, z=-7.32, district = 5 }, --Mexico Wedding Venue
 }
 -----------------
 --- Functions ---
