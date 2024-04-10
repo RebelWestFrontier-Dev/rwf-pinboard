@@ -33,11 +33,11 @@ local colors = {
 }
 
 local webhook = {
-        'https://discord.com/api/webhooks/1177662830695157890/LqvWO-8JQzmyObshYe77m-L3WixjX0F4hfmnZH85bmlr65Qw711vX4Znq84NPg_ESZv8',
-        'https://discord.com/api/webhooks/1177661205654016010/F8Xvfvr0GOP1p3m5KNJlHXjv_TYfYoydmL-wucms_BimYz6kos0-nXYDR2pPaS-pfScf',
-	'https://discord.com/api/webhooks/1177663122434170941/5tZMu65VawMyEOCuyyrQon1pnibF3X1OAh-ujqtQY-Fp0lvaaQH5T2MJ7V1ZCqI4pcoj',
-        'https://discord.com/api/webhooks/1177663285294796901/z1fnleTkdZYbV8yVVdGt2oT9qw2mjvz0C8DGUwoBLCy4T8zpzkduglEn5RPdaxeGFtlx',
-        'https://discord.com/api/webhooks/1177663470573985932/nhRcfuyYNMM1L2vjJhUWmkC_ZCDtM9TkZRJROAmWPAXPU7m2m6vLeY-tAkcr7DsYw-ZD'
+        '', -- Insert Webhook for district = 1
+        '', -- Insert Webhook for district = 2
+	'', -- Insert Webhook for district = 3
+        '', -- Insert Webhook for district = 4
+        ''  -- Insert Webhook for district = 5
 		
 }
 local version = "1.0"
