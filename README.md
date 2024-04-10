@@ -15,7 +15,7 @@ https://github.com/overextended/ox_lib/releases
 
 - Extract zw-pinboard into your resources folder
 - Import pinboard.sql into your database
-- Add ensure zw-pinboard to your server.cfg to the resource
+- Add ensure rw-pinboard to your server.cfg to the resource
 
 You can add new locations where telegrams can be by amending the locations table in the client.lua file. 
 
