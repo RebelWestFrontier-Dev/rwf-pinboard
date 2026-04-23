@@ -13,16 +13,16 @@ https://github.com/overextended/oxmysql/releases
 oxlib Latest Release
 https://github.com/overextended/ox_lib/releases
 
-- Extract rw-pinboard into your resources folder
+- Extract rwf-pinboard into your resources folder
 - Import pinboard.sql into your database
-- Add ensure rw-pinboard to your resource.cfg to the resource
+- Add ensure rwf-pinboard to your resource.cfg to start the resource
 
 You can add new locations where telegrams can be by amending the locations table in the client.lua file. 
 
 
 # License
-Rebel West Scripts does not own the source code for this script.  
-This is a modification of ak_pinboard to work on Vorp and any use of the script should follow the original source code Licenseing.
+Rebel West Frontier does not own the source code for this script.  
+This is a modification of ak_pinboard original source code to work on Vorp and any use of the script should follow the original source code Licenseing.
 Free to use and edit for personal use.  
 
 # License Source Code:
